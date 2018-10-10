@@ -3,5 +3,4 @@ bbbbbbbbbbbbbb
 cccccccccccccc
 dddddddddddddd
 eeeeeeeeeeeeee
-
-public static void mian(String[] arg)
+master is do...........
